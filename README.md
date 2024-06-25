@@ -4,9 +4,9 @@ Welcome to our GitHub profile! We're passionate about creating cutting-edge digi
 
 ### 👀 We’re interested in this field Areas.
 - Website Designs.
-- Website Development with Python and Django.
-- Interactive UIs with JavaScript and Bootstrap.
-- UI/UX Designs.
+- Website Development with Python and Django as Backend Technologies.
+- Interactive UIs with JavaScript and Bootstrap, CSS and HTML as a Frontend Technologies.
+- UI/UX Design  (Figma, Canvas and Adobe XD).
 - Logo Designs.
 - Image Enhancing (Photoshop).
 - Video Recording.
