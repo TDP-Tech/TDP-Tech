@@ -29,21 +29,10 @@ Welcome to our GitHub profile! We're passionate about creating cutting-edge digi
 ### ⚡ Fun fact:
 We started as a small team of passionate designers and developers in a Lab, and now we’ve grown into a full-fledged digital agency serving clients Tanzania and WorldWide!
 
----
 
 ### Our Projects
-
 #### Website Designs and Development
-- Project 1 link
-- Project 2 link
-
 #### UI/UX Designs
-- Project 1 link
-- Project 2 link
-
 #### Logo Designs
-- Project 1 link
-- Project 2 link
-
 
 Feel free to explore our repositories and get in touch with us for any Project, Collaborations or Queries!
