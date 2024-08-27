@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6c54n3NbWu2QPczpnh3Fhh8cySOFQbfcymA&s)](https://tdp-tech.io)
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate Python developer from Tanzania</h3>
 
