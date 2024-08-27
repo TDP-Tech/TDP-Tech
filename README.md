@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6c54n3NbWu2QPczpnh3Fhh8cySOFQbfcymA&s)](https://tdp-tech.io)
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate Full-stack developer from Tanzania</h3>
+<h3 align="center">A passionate Python developer from Tanzania</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,17 +9,54 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdp-tech" alt="tdp-tech" /></a> </p>
 
 - 🔭 I’m currently working on **tmcsmust**
-
 - 🌱 I’m currently learning **Django, React**
-
 - 💬 Ask me about **Python, AI/ML**
+- 📫 How to reach me: **victoranthony.av@gmail.com**
+- ⚡ Fun fact: **I am Funny**
 
-- 📫 How to reach me **victoranthony.av@gmail.com**
+**🚀 What I Do**
 
-- ⚡ Fun fact **I am Funny**
+**Backend Development:**
+I specialize in Django for backend development, focusing on creating robust and scalable applications. My experience includes building RESTful APIs that facilitate seamless communication between the front-end and back-end. I ensure efficient data handling, making sure that data is stored, retrieved, and processed in a way that maximizes performance and reliability.
+
+**Frontend Development:**
+I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, which allows me to create visually appealing and responsive user interfaces. I prioritize user experience by designing clean, intuitive layouts that work well across different devices and screen sizes. My goal is to build interfaces that are not only functional but also engaging and easy to use.
+
+**Full-Stack Projects:**
+In full-stack development, I bring together my backend and frontend skills to deliver complete web solutions. I am adept at seamlessly integrating the front-end and back-end, ensuring that all components of the application work together smoothly. This includes everything from database management to API integration, to deploying and maintaining the final product.
+
+**Chatbot Integration:**
+I integrate chatbots—whether Sarufi chatbots or custom-built solutions—from scratch. I incorporate AI-powered solutions into web applications to enhance user interaction and provide seamless automated support, creating more engaging and responsive user experiences.
+
+**🌱 Currently Learning**
+
+I'm always eager to expand my skill set and stay ahead in the tech world. Currently, I'm focused on:
+
+- **Advanced Django Features:** Delving deeper into Django's advanced capabilities, such as customizing middleware, optimizing query performance, and mastering Django's built-in security features to build more secure, efficient, and scalable applications.
+
+- **JavaScript Frameworks:** Enhancing my front-end skills by exploring popular JavaScript frameworks like React, enabling me to create more dynamic and interactive user interfaces.
+
+- **Artificial Intelligence (AI):** Learning about machine learning algorithms, data analysis, and how to integrate AI into web applications to build smarter, more intuitive applications.
+
+**🖼️ Sample Work**
+
+Here are some examples of projects I've worked on:
+
+- **Ngwala Inventions website**  
+  [Live Demo](https://www.ngwalainventions.co.tz/)
+
+- **Agki Medical Laboratory Chatbot Assistant**  
+  [Live Demo](https://agkimedicallaboratory.com/)
+
+**📫 Get in Touch**
+
++255 757 900 133 or victoranthony.av@gmail.com
+
+# Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add your social media links here if applicable -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
