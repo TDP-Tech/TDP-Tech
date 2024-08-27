@@ -26,6 +26,22 @@ I'm always eager to expand my skill set and stay ahead in the tech world. Curren
 
 **Artificial Intelligence (AI):** I'm also diving into the world of AI, learning about machine learning algorithms, data analysis, and how to integrate AI into web applications. My goal is to leverage AI to build smarter, more intuitive applications that can adapt to user needs and provide enhanced functionality.
 
+
+**🖼️ Sample Work**
+
+Here are some examples of projects I've worked on:
+
+Ngwala Inventions website
+
+Live Demo
+https://www.ngwalainventions.co.tz/
+
+Agki Medical Labaratory Chatbot Assistant
+
+Live Demo
+https://agkimedicallaboratory.com/
+
+
 **📫 Get in Touch**
 
 +255 757 900 133 or victoranthony.av@gmail.com
