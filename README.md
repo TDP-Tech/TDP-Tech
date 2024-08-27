@@ -13,6 +13,9 @@ I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, which allows
 **Full-Stack Projects:**
 In full-stack development, I bring together my backend and frontend skills to deliver complete web solutions. I am adept at seamlessly integrating the front-end and back-end, ensuring that all components of the application work together smoothly. This includes everything from database management to API integration, to deploying and maintaining the final product.
 
+**Chatbot Integration:**
+I integrate Chatbots - Sarufi chatbots (seemless chatbot) or building custom chatbots from scratch, I incorporate AI-powered solutions into web applications to enhance user interaction and provide seamless automated support. This allows for more engaging and responsive user experiences.
+
 **🌱 Currently Learning**
 
 I'm always eager to expand my skill set and stay ahead in the tech world. Currently, I'm focused on:
