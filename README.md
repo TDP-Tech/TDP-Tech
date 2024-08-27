@@ -1,6 +1,6 @@
 👋 Hi there, I'm **Victor**!
 
-I'm a passionate Python developer specializing in building robust web applications using the Django framework. My expertise spans across both front-end and back-end development, with a strong focus on creating responsive, user-friendly interfaces using Bootstrap, CSS, and HTML.
+I'm a passionate Python developer from Tanzania, specializing in building robust web applications using the Django framework. My expertise spans across both front-end and back-end development, with a strong focus on creating responsive, user-friendly interfaces using Bootstrap, CSS, and HTML.
 View repositories [here](https://github.com/TDP-Tech?tab=repositories)
 
 **🚀 What I Do**
