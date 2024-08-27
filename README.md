@@ -3,6 +3,7 @@
 I'm a passionate Python developer specializing in building robust web applications using the Django framework. My expertise spans across both front-end and back-end development, with a strong focus on creating responsive, user-friendly interfaces using Bootstrap, CSS, and HTML.
 View repositories here https://github.com/TDP-Tech?tab=repositories
 
+![Project Name 1](http://link-to-image1.jpg) 
 **🚀 What I Do**
 
 **Backend Development:**
