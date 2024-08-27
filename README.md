@@ -1,50 +1,35 @@
-👋 Hi there, I'm **Victor**!
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6c54n3NbWu2QPczpnh3Fhh8cySOFQbfcymA&s)](https://tdp-tech.io)
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">A passionate Full-stack developer from Tanzania</h3>
 
-I'm a passionate Python developer from Tanzania, specializing in building robust web applications using the Django framework. My expertise spans across both front-end and back-end development, with a strong focus on creating responsive, user-friendly interfaces using Bootstrap, CSS, and HTML.
-View repositories [here](https://github.com/TDP-Tech?tab=repositories)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-**🚀 What I Do**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdp-tech&label=Profile%20views&color=0e75b6&style=flat" alt="tdp-tech" /> </p>
 
-**Backend Development:**
-I specialize in Django for backend development, where I focus on creating robust and scalable applications. My experience includes building RESTful APIs that facilitate seamless communication between the front-end and back-end. I ensure efficient data handling, making sure that data is stored, retrieved, and processed in a way that maximizes performance and reliability.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdp-tech" alt="tdp-tech" /></a> </p>
 
-**Frontend Development:**
-I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, which allows me to create visually appealing and responsive user interfaces. I prioritize user experience by designing clean, intuitive layouts that work well across different devices and screen sizes. My goal is to build interfaces that are not only functional but also engaging and easy to use.
+- 🔭 I’m currently working on **tmcsmust**
 
-**Full-Stack Projects:**
-In full-stack development, I bring together my backend and frontend skills to deliver complete web solutions. I am adept at seamlessly integrating the front-end and back-end, ensuring that all components of the application work together smoothly. This includes everything from database management to API integration, to deploying and maintaining the final product.
+- 🌱 I’m currently learning **Django, React**
 
-**Chatbot Integration:**
-I integrate Chatbots - Sarufi chatbots (seemless chatbot) or building custom chatbots from scratch, I incorporate AI-powered solutions into web applications to enhance user interaction and provide seamless automated support. This allows for more engaging and responsive user experiences.
+- 💬 Ask me about **Python, AI/ML**
 
-**🌱 Currently Learning**
+- 📫 How to reach me **victoranthony.av@gmail.com**
 
-I'm always eager to expand my skill set and stay ahead in the tech world. Currently, I'm focused on:
+- ⚡ Fun fact **I am Funny**
 
-**Advanced Django Features:** I'm delving deeper into Django's advanced capabilities, such as customizing middleware, optimizing query performance, and mastering Django's built-in security features. This helps me build more secure, efficient, and scalable applications.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-**JavaScript Frameworks:** To complement my Django expertise, I'm enhancing my front-end skills by exploring popular JavaScript frameworks like React. This enables me to create more dynamic and interactive user interfaces, improving the overall user experience.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**Artificial Intelligence (AI):** I'm also diving into the world of AI, learning about machine learning algorithms, data analysis, and how to integrate AI into web applications. My goal is to leverage AI to build smarter, more intuitive applications that can adapt to user needs and provide enhanced functionality.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/TDP-Tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TDP-Tech" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdp-tech&show_icons=true&locale=en&layout=compact" alt="tdp-tech" /></p>
 
-**🖼️ Sample Work**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdp-tech&show_icons=true&locale=en" alt="tdp-tech" /></p>
 
-Here are some examples of projects I've worked on:
-
-Ngwala Inventions website
-
-Live Demo
-https://www.ngwalainventions.co.tz/
-
-Agki Medical Labaratory Chatbot Assistant
-
-Live Demo
-https://agkimedicallaboratory.com/
-
-
-**📫 Get in Touch**
-
-+255 757 900 133 or victoranthony.av@gmail.com
-
-# Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdp-tech&" alt="tdp-tech" /></p>
