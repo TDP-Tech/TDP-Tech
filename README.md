@@ -23,6 +23,8 @@ Database: MySQL, PostgreSQL
 Version Control: Git, GitHub
 Deployment: Gunicorn, Whitenoise
 
-📫 Get in Touch
-[Email](Your Email)
-Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+**📫 Get in Touch**
+
+victoranthony.av@gmail.com
+
+# Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
