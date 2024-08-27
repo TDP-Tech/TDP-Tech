@@ -25,6 +25,7 @@ Deployment: Gunicorn, Whitenoise
 
 **📫 Get in Touch**
 
++255 757 900 133
 victoranthony.av@gmail.com
 
 # Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
