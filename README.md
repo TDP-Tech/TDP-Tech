@@ -14,18 +14,17 @@ I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, which allows
 In full-stack development, I bring together my backend and frontend skills to deliver complete web solutions. I am adept at seamlessly integrating the front-end and back-end, ensuring that all components of the application work together smoothly. This includes everything from database management to API integration, to deploying and maintaining the final product.
 
 **🌱 Currently Learning**
-Exploring advanced Django features and diving deeper into JavaScript frameworks.
-🛠 Tools & Technologies
-Languages: Python, JavaScript
-Frameworks: Django, Django REST Framework
-Frontend: HTML, CSS, Bootstrap
-Database: MySQL, PostgreSQL
-Version Control: Git, GitHub
-Deployment: Gunicorn, Whitenoise
+
+I'm always eager to expand my skill set and stay ahead in the tech world. Currently, I'm focused on:
+
+**Advanced Django Features:** I'm delving deeper into Django's advanced capabilities, such as customizing middleware, optimizing query performance, and mastering Django's built-in security features. This helps me build more secure, efficient, and scalable applications.
+
+**JavaScript Frameworks:** To complement my Django expertise, I'm enhancing my front-end skills by exploring popular JavaScript frameworks like React. This enables me to create more dynamic and interactive user interfaces, improving the overall user experience.
+
+**Artificial Intelligence (AI):** I'm also diving into the world of AI, learning about machine learning algorithms, data analysis, and how to integrate AI into web applications. My goal is to leverage AI to build smarter, more intuitive applications that can adapt to user needs and provide enhanced functionality.
 
 **📫 Get in Touch**
 
-+255 757 900 133
-victoranthony.av@gmail.com
++255 757 900 133 or victoranthony.av@gmail.com
 
 # Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
