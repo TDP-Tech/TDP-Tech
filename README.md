@@ -51,7 +51,7 @@ Here are some examples of projects I've worked on:
 
 +255 757 900 133 or victoranthony.av@gmail.com
 
-# Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
+# Feel free to explore my [repositories](https://github.com/TDP-Tech?tab=repositories) and reach out if you'd like to collaborate on something exciting!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
