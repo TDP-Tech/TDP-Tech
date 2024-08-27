@@ -1,38 +1,21 @@
-### 👋 Hi, we’re [TDP-Tech](https://tdptech.com)
+👋 Hi there, I'm **Victor**!
+I'm a passionate Python developer specializing in building robust web applications using the Django framework. My expertise spans across both front-end and back-end development, with a strong focus on creating responsive, user-friendly interfaces using Bootstrap, CSS, and HTML.
 
-Welcome to our GitHub profile! We're passionate about creating cutting-edge digital products using the latest web technologies like Python, Django, SqLite3, MySql, Postgress as a Backend and using JavaScript, HTML, CSS, Bootstrap, TailwindCSS as a Frontend and als using Figma Design, Canvas and Photoshop to create our Designs for Better User experience Designs.
+**🚀 What I Do**
+**Backend Development:** Proficient in Django, crafting RESTful APIs, and ensuring efficient data handling.
+**Frontend Development:** Building clean, responsive UIs with HTML, CSS, Bootstrap, and JavaScript.
+**Full-Stack Projects:** Seamlessly integrating front-end and back-end to deliver complete web solutions.
 
-### 👀 We’re interested in this field Areas.
-- Website Designs.
-- Website Development with Python and Django as Backend Technologies.
-- Interactive UIs with JavaScript and Bootstrap, CSS and HTML as a Frontend Technologies.
-- UI/UX Design  (Figma, Canvas and Adobe XD).
-- Logo Designs.
-- Image Enhancing (Photoshop).
-- Video Recording.
+**🌱 Currently Learning**
+Exploring advanced Django features and diving deeper into JavaScript frameworks.
+🛠 Tools & Technologies
+Languages: Python, JavaScript
+Frameworks: Django, Django REST Framework
+Frontend: HTML, CSS, Bootstrap
+Database: MySQL, PostgreSQL
+Version Control: Git, GitHub
+Deployment: Gunicorn, Whitenoise
 
-
-### 💞️ We’re looking to collaborate on...
-- Web development projects using Python, Django, and JavaScript
-- Innovative design solutions with Bootstrap, CSS, and HTML
-- Open-source design tools
-- Any project where we can bring our expertise in digital creation
-
-### 📫 How to reach us...
-- Email: tanzaniadigitalprojectstech@gmail.com
-- LinkedIn:
-- Twitter:
-
-### 😄 Pronouns: 
-- He/Him
-
-### ⚡ Fun fact:
-We started as a small team of passionate designers and developers in a Lab, and now we’ve grown into a full-fledged digital agency serving clients Tanzania and WorldWide!
-
-
-### Our Projects
-#### Website Designs and Development
-#### UI/UX Designs
-#### Logo Designs
-
-Feel free to explore our repositories and get in touch with us for any Project, Collaborations or Queries!
+📫 Get in Touch
+[Email](Your Email)
+Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
