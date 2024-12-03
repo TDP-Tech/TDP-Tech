@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdp-tech&label=Profile%20views&color=0e75b6&style=tokyonight&margin-w=15" alt="tdp-tech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdp-tech&label=Profile%20views&color=0e75b6&style=flat alt="tdp-tech" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15 alt="tdp-tech" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdp-tech" alt="tdp-tech" /></a> </p>
 
