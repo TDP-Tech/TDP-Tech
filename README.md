@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdp-tech" alt="tdp-tech" /></a> </p>
 
-
-**🖼️ Sample Work**
-
-- **Ngwala Inventions website**  
-  [Live Demo](https://www.ngwalainventions.co.tz/)
-
-- **Agki Medical Laboratory Chatbot Assistant**  
-  [Live Demo](https://agkimedicallaboratory.com/)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
