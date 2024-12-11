@@ -12,6 +12,7 @@
 </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tdp-tech" alt="GitHub Streak" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdp-tech&theme=tokyonight" alt="tdp-tech" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TDP-Tech&theme=dark)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en" alt="tdp-tech" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="tdp-tech" /></p>
