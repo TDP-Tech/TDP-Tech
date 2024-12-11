@@ -11,6 +11,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdp-tech&theme=tokyonight" alt="tdp-tech" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tdp-tech" alt="GitHub Streak" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en" alt="tdp-tech" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="tdp-tech" /></p>
