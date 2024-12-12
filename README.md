@@ -1,4 +1,4 @@
-<h1 align="left">Life is all about programming. Think about it.</h1>
+<h4 align="left">Life is all about programming. Think about it.</h4>
 
 <p align="left"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdp-tech&margin-w=15&theme=tokyonight&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C" alt="tdp-tech"/></a> </p>
 
