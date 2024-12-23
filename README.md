@@ -8,24 +8,19 @@
 
 
 <div class="container my-5">
-        <!-- Profile Header -->
         <div class="text-left mb-3">
             <h3>Life is all about programming. Think about it.</h3>
         </div>
 
-        <!-- Profile Content -->
         <div class="d-flex align-items-center flex-wrap">
-            <!-- GitHub Trophy -->
             <div class="mb-3 me-3">
                 <img src="https://github-profile-trophy.vercel.app/?username=tdp-tech&margin-w=15&theme=onestar&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B" alt="tdp-tech" class="img-fluid" />
             </div>
 
-            <!-- GitHub Stats -->
             <div class="mb-3 me-3">
                 <img src="https://github-readme-stats.vercel.app/api?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en" alt="tdp-tech" class="img-fluid" />
             </div>
             
-            <!-- Top Languages -->
             <div>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="tdp-tech" class="img-fluid" />
             </div>
