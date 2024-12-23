@@ -12,7 +12,6 @@
             <h3>Life is all about programming. Think about it.</h3>
         </div>
 
-        <div class="mb-3">
             <div>
                 <img src="https://github-profile-trophy.vercel.app/?username=tdp-tech&margin-w=15&theme=onestar&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B" alt="tdp-tech" class="img-fluid" />
             </div>
@@ -24,5 +23,5 @@
             <div>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tdp-tech&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="tdp-tech" class="img-fluid" />
             </div>
-        </div>
+
     </div>
